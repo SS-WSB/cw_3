@@ -7,13 +7,6 @@ Wymagania
 - Python 3.x
 - curl
 
-Użycie
-1. Skopiuj plik `api_test.py` na swój komputer.
-2. Uruchom skrypt:
-    ```sh
-    python api_test.py
-    ```
-
 ## Endpointy API
 Testowane endpointy:
 - `/posts` - sprawdza obecność klucza `userId` w odpowiedzi JSON.
